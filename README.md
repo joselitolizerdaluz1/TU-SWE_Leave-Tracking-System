@@ -2,6 +2,7 @@
 SWE Upskill: Capstone 1
 
 Name: Joselito Lizer C. Daluz
+
 Part 1:
 ![A Screenshot of Capstone Part 1](SWE-Upskill_Capstone-Part-1-1.png)
 
